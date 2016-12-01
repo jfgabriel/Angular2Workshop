@@ -1,8 +1,7 @@
-# Ejercicio: Implementar una aplicación de consulta a Wikipedia
+# Ejercicio: Crear un nuevo componente
 
 ## Pasos
-1. Crear una nueva aplicación llamada wikiApp
-2. Implementar un servicio que consulte Wikipedia (usar como ejemplo wikipedia.service.ts)
-3. Integrar el servicio a la aplicación.
-4. Implementar una UI con un textbox y un botón que permita buscar terminos a través del servicio
+1. Crear un nuevo componente 'saludame' con angular-cli: ng generate componente saludame
+2. Integrar el componente a la aplicación y probarlo
+3. Crear una propiedad de entrada 'nombre' para generar el mensaje 'Hola <nombre>'
 
